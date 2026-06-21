@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.table-container{
+	border:1px solid black;
+}
+
+.imageCol{
+	width:200px;
+}
+
+.textCol{
+	width:600px;
+}
+
+.col{
+	border:1px solid black
+}
